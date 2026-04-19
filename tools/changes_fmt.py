@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import utils.transport
+import utils.session
 from argparse import ArgumentParser
 import os
 import json
